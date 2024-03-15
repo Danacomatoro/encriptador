@@ -4,4 +4,5 @@
 
 
 ![Encriptar-archivos-que-es-y-como-funciona-3-edited](https://github.com/Danacomatoro/encriptador/assets/137968105/2a505cd9-4e2f-4369-9e91-0b80790b11ed)
--estado del proyecto: inicio construcción siguiendo los pasos de tutoriales y usando git, github y visual code.
+-estado del proyecto: inicio construcción siguiendo los pasos de tutoriales, usando git, github, visual code.
+HTML5, CC3 Y JAVASCRIPT.
